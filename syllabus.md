@@ -1,10 +1,9 @@
 # IS 452AO 2019 Fall Syllabus
 ## Instructor information
 
-* Instructor: Elizabeth Wickes
-* Office: 329 Information Sciences Building
-* Email: wickes1@illinois.edu
-* Cell phone: look in moodle, I'm not putting this on github (do not call after 9pm)
+* Instructor: Jill P. Naiman
+* Office: 2040 NCSA (Office Hours held online)
+* Email: jnaiman@illinois.edu
 
 ## Course description
 
