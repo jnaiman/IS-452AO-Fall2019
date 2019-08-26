@@ -1,4 +1,6 @@
-# IS 452: Foundations of Information Processing - Fall 2019 
+# IS 452: Foundations of Information Processing - Fall 2019 (Online)
+
+**NOTE: this is originally from Elizabeth Wickes: https://github.com/elliewix/IS-452-Fall2019**
 
 A public repo for the Fall 2019 IS452 lecture notes
 
