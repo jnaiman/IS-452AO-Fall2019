@@ -42,13 +42,12 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 * Regular class times: 
   * Attendance is a requirement for all enrolled students.  Sessions will be recorded and available across all sections.
   * Online sections often have an optional lab hour. This hour will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room. I will sometimes depart early if everyone leaves and I have transit issues, so if you plan to arrive after 8pm please email me so I know to stay.
-* The last lab hour for on campus sections is required (this is built into the 3 hour class time window) so the meeting session will match the banner meeting times.
 * Make an appointment to meet with me:
   * Appointment booking information is in the class moodle.
 
 ## Required textbooks
 
-The quick: you will need to purchase access to the Zelle third edition. Only the third edition will work for our class. I will have an office copy in case of emergency, but that copy cannot be your primary copy.
+The quick: you will need to purchase access to the Zelle third edition. Only the third edition will work for our class. 
 
 1.	Zelle, John.  Python Programming: an introduction to computer science.  (THIRD edition).  Franklin, Beedle & Associates Inc.
 2.	Python for Everyone (http://pythonlearn.com/book.php and https://books.trinket.io/pfe/index.html) This a free book available online or for purchase if you want a physical copy.  These chapters are optional and meant to provide additional information and context if desired.  There are a few weeks where I strongly suggest that you read this book first, and will note it in moodle.
@@ -102,7 +101,7 @@ Policies:
 * While there are reading requirements, one of the most important things to do is to **practice the lessons being taught in the book**.  Reading more is rarely the answer if you are having serious difficulty with the material. 
 * **Everything you need to solve the homework should be in the lecture notes, readings, or discussed in class.** But you still may find that searching online can help you put things together.
 * **Regular and repeated practice will help you internalize the concepts and syntax.** I cannot stress enough that you need to start early.  Completing the homeworks should take at least an hour for an experienced programmer, but you should expect them to take between 3-5 hours depending on the content.  This means that between reading the chapter, attempting the homework, testing, and revising, you should expect to spend at least 10-15 hours a week on this class. 
-* **Look things up all the time, until you've gotten it right several times in a row.** You aren't expected to memorize a buch of rules and syntax.  Structure your notes is a usable way and look things up as you go.  Eventually you'll need to look things up less and less.
+* **Look things up all the time, until you've gotten it right several times in a row.** You aren't expected to memorize a buch of rules and syntax.  Structure your notes is a usable way and look things up as you go.  Eventually you'll need to look things up less and less.  I've personally be programming for 15+ years and still look up a good many things myself!
 * **Follow the 2 hour rule:** When you are working on a programming problem and have spent an hour without making any progress forward (even slow progress is fine), take at least a 30 minute break. Work on something else, take a walk, do the dishes, etc.  Then go back to the problem, and if you are still not making any progress forward after another hour, stop and email me for help.  Work on something else or go to bed.  Do not spend an entire day on a single problem ever.  I’d rather give you an extension than read that you’ve done that.  **Stop and ask for help after 2 hours of making zero progress forward**.
 * **Plan to use all your homework extensions.** There is no penalty for using them or bonus for not. I don't factor these into you grades in any way.  The policy for how they work is in a separate section.  There is a lot of homework and you have a lot going on.  Please plan on using these as you need them.
 * The weekly discussion forums are the place to talk about unclear points or to get help with a problem.  Don’t post the entirety of your homework answers on the discussion boards, but you can ask clarification or technical questions about them.  Chances are high that someone else has a similar problem, and the feedback can generally be much faster with the entire classes eyes rather than just the instructor and TA. 
@@ -136,10 +135,10 @@ Here are the required elements for any homework submission:
 
 * Narrative
   * One narrative file for the entire homework, PDF preferred. Include your netid in the file name. There is as later section that describes what this is.
-  * Example file name: wickes1_hw01_narrative.pdf
+  * Example file name: jnaiman_hw01_narrative.pdf
 * Python files (these are the py files that PyCharm creates), one for each problem
   * Some HW problems will build off each other, and you can combine them into one py file. Just clearly mark where the code is for each problem.
-  * Example file name: wickes1_pe4.py, wickes1_pe4+8.py, etc.
+  * Example file name: jnaiman_pe4.py, jnaiman_pe4+8.py, etc.
   
 #### Do the programs in the homework need to be running or complete for submission?
 
@@ -156,7 +155,7 @@ Wednesday 11:55pm, due date for homeworks on an extension. Any homeworks on exte
 
 **The weekly homeworks are due on Saturday evenings at 11:55** (moodle only supports 5 min increments).  You don't have one due the first week of class).  You may submit a homework assignment up to 8am the next day without penalty.  The last chance to submit a late weekly homework assignment and recieve any credit is end of day tuesday.  Assignments under an extension have until wednesday. 
 
-Submission after Saturday but before end of day monday will result in a 10% deduction from the maximum possible points for the assignment.  Submission after end of day monday but before end of day Tuesday will result in a 30% deduction from the maximum possible points for the assignment (from the full base, not on top of the monday penalty).  
+Submission after Saturday but before end of day Monday will result in a 10% deduction from the maximum possible points for the assignment.  Submission after end of day Monday but before end of day Tuesday will result in a 30% deduction from the maximum possible points for the assignment (from the full base, not on top of the Monday penalty).  
 
 This Saturday due date has been chosen and retained based on input from 452 students and is purposeful so you have Sunday to start work on the next week’s materials. I’m fully aware that this does put the pressure on during the week, but it is important that you start early in the week and work on things in little bits and pieces.  You should not wait until Saturday morning to begin the homework. Ideally, you will be working on the homework over the course of the week and only need a little time on Saturday to finalize. Obviously, you won’t be able to pull this off every single, week, so please take advantage of the extension option.
 
@@ -189,7 +188,7 @@ First off, don't panic about the narrative.  These are informal write ups (think
 
 I stress that informality aspect about this. We are looking for you to explain your approach and how it went.  You do need to say more than "that was fine" but please don't make this a formal paper or a stream of consciousness about everything you did.  We grade this on a pass/fail basis, so you'll get full credit if you hit the minimum required threshold.
 
-Write the narrative as you finish each problem and don’t sink a ton of extra time into this.  These help us understand your code and give you partial credit if need be.  THe narrative is the place we go to understand what happened if you complete a problem incorrectly or don't finish something.  Many times we can still award full credit or partial credit for elements if you explain your interpretation or what you tried.  For example, if your interpretation of a problem was wrong but correctly executed and documented it the narrative, we might be able to award more or full points.  This won't always be the case, but trust me, we go deeply through the narratives to extract partical credit if you need it.
+Write the narrative as you finish each problem and don’t sink a ton of extra time into this.  These help us understand your code and give you partial credit if need be.  The narrative is the place we go to understand what happened if you complete a problem incorrectly or don't finish something.  Many times we can still award full credit or partial credit for elements if you explain your interpretation or what you tried.  For example, if your interpretation of a problem was wrong but correctly executed and documented it the narrative, we might be able to award more or full points.  This won't always be the case, but trust me, we go deeply through the narratives to extract partial credit if you need it.
 
 Things to include in your narratives (not all required, just prompts to get you thinking):  what your assumptions about the rules of the problem are, any problems you ran into, which part of the lecture notes you found helpful, questions you came up with and can’t find the answer to, etc.  These aren’t required sections, but suggestions to get you thinking.  You can include screen shots if you want.  To be clear, you need to describe substantive information on the problem at hand and include the relevant code to get the points. Partial credit will not be given if you only describe that you worked on the problem for hours but don’t talk about what you did or show us any code.
 
@@ -230,7 +229,7 @@ All topics necessary to complete the midterm will be presented before this check
 
 These essays are designed to have you explore and learn more about the history of computing and community tools.  You may use any citation style you’d like, so long as it is consistent.  You should take these prompts seriously and take a pretty formal approach, even though some of them do ask for a reaction or narrative analysis.  This means you can include personal experiences, but I want a serious depth of discussion.
 
-Writing skill is not being graded, but these need to be written seriously and be readable.  Those new to academic writing are strongly encouraged to make use of the writing centers on campus for help.  Elizabeth is also willing to review these before submission and can give you quick feedback.
+Writing skill is not being graded, but these need to be written seriously and be readable.  Those new to academic writing are strongly encouraged to make use of the writing centers on campus for help.  Jill is also willing to review these before submission and can give you quick feedback.
 
 #### Plagiarism warning
 

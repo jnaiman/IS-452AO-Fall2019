@@ -1,2 +1,2 @@
 CC-BY
-Please also give me a heads up that you're using these materials.
+Please also give Elizabeth Wickes a heads up that you're using these materials.
